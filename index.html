@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cafeteria Spoilage Risk AI</title>
+  <meta name="description" content="AI demand forecast and spoilage risk dashboard for UTP Student Village cafeterias.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥬</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="wrap header">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">🥬</div>
+      <div>
+        <h1>Spoilage Risk Dashboard</h1>
+        <p>AI demand forecast for UTP Student Village cafeterias</p>
+      </div>
+    </div>
+    <span class="tag">Prototype · synthetic data</span>
+  </header>
+
+  <main class="wrap">
+    <!-- Forecast controls -->
+    <section class="card controls" aria-label="Tomorrow's forecast">
+      <div class="field">
+        <span class="label">Weather tomorrow</span>
+        <div class="seg" id="weather" role="radiogroup" aria-label="Weather"></div>
+      </div>
+      <div class="field">
+        <span class="label">Academic period</span>
+        <div class="seg" id="period" role="radiogroup" aria-label="Academic period"></div>
+      </div>
+      <div class="field day">
+        <label class="label" for="day">Day</label>
+        <select id="day"></select>
+      </div>
+      <div class="field go">
+        <button id="run" type="button">Predict Risk &amp; Generate Actions</button>
+        <span id="stale" class="stale" hidden>Inputs changed. Click to update.</span>
+      </div>
+    </section>
+
+    <!-- Demand -->
+    <section class="row demand">
+      <div class="card hero" id="hero">
+        <span class="label">Demand tomorrow</span>
+        <div class="big" id="change"></div>
+        <p class="vs" id="vs"></p>
+        <div class="advice" id="advice"></div>
+        <dl class="stats">
+          <div><dt>Needed</dt><dd id="needed"></dd></div>
+          <div><dt>Lunch prep</dt><dd id="lunch"></dd></div>
+          <div><dt>Dinner prep</dt><dd id="dinner"></dd></div>
+        </dl>
+      </div>
+      <div class="card chart-card">
+        <div class="card-head">
+          <h2>Tomorrow vs a normal day</h2>
+          <div class="legend"><span><i class="sw normal"></i>Normal day</span><span><i class="sw ai"></i>AI forecast</span></div>
+        </div>
+        <div class="chart" id="chart" role="img" aria-label="Bar chart comparing a normal day with tomorrow's forecast for each item"></div>
+      </div>
+    </section>
+
+    <!-- Inventory + actions -->
+    <section class="row lower">
+      <div class="card">
+        <div class="card-head">
+          <h2>Inventory &amp; spoilage risk</h2>
+          <span class="muted small">Edit stock and days left, then predict</span>
+        </div>
+        <div class="inv" id="inv" role="table" aria-label="Inventory and spoilage risk"></div>
+        <p class="rule">High: more stock than tomorrow's demand and ≤ 2 days left · Medium: more stock than demand
+          and 3–4 days left · Low: stock matches demand or 5+ days left</p>
+      </div>
+      <div class="card">
+        <div class="card-head">
+          <h2>Recommended actions</h2>
+          <span class="count" id="count"></span>
+        </div>
+        <div id="actions"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    Coursework prototype (TEB2023 Artificial Intelligence, Group 12, UTP). The scikit-learn decision tree was trained on
+    simulated sales built from our student survey and vendor interview. Not for real purchasing decisions.
+  </footer>
+
+  <script src="model.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,253 @@
+Date,Day_of_Week,Weather,Academic_Period,Item_Category,Current_Stock_kg,Days_To_Expiry,Actual_Sales_kg,Wasted_kg
+2026-08-31,Monday,Clear,Regular Week,Leafy Greens,5.81,1,5.63,0.08
+2026-08-31,Monday,Clear,Regular Week,Tomatoes,4.84,3,4.0,0.08
+2026-08-31,Monday,Clear,Regular Week,Chicken,11.63,3,10.66,0.16
+2026-08-31,Monday,Clear,Regular Week,Seafood,6.78,3,6.16,0.09
+2026-09-01,Tuesday,Clear,Regular Week,Leafy Greens,7.04,2,6.43,0.12
+2026-09-01,Tuesday,Clear,Regular Week,Tomatoes,5.86,7,5.51,0.07
+2026-09-01,Tuesday,Clear,Regular Week,Chicken,14.07,1,12.03,0.37
+2026-09-01,Tuesday,Clear,Regular Week,Seafood,8.21,2,6.96,0.17
+2026-09-02,Wednesday,Clear,Regular Week,Leafy Greens,6.73,1,5.83,0.17
+2026-09-02,Wednesday,Clear,Regular Week,Tomatoes,5.61,7,5.04,0.06
+2026-09-02,Wednesday,Clear,Regular Week,Chicken,13.46,4,11.87,0.18
+2026-09-02,Wednesday,Clear,Regular Week,Seafood,7.85,1,7.41,0.13
+2026-09-03,Thursday,Heavy Rain,Regular Week,Leafy Greens,7.04,2,5.77,0.16
+2026-09-03,Thursday,Heavy Rain,Regular Week,Tomatoes,5.86,7,4.03,0.07
+2026-09-03,Thursday,Heavy Rain,Regular Week,Chicken,14.07,1,9.47,0.65
+2026-09-03,Thursday,Heavy Rain,Regular Week,Seafood,8.21,2,6.32,0.21
+2026-09-04,Friday,Heavy Rain,Regular Week,Leafy Greens,7.95,4,5.69,0.14
+2026-09-04,Friday,Heavy Rain,Regular Week,Tomatoes,6.63,5,4.71,0.08
+2026-09-04,Friday,Heavy Rain,Regular Week,Chicken,15.91,2,10.38,0.53
+2026-09-04,Friday,Heavy Rain,Regular Week,Seafood,9.28,3,6.4,0.19
+2026-09-05,Saturday,Heavy Rain,Regular Week,Leafy Greens,4.9,4,3.41,0.09
+2026-09-05,Saturday,Heavy Rain,Regular Week,Tomatoes,4.08,3,2.77,0.09
+2026-09-05,Saturday,Heavy Rain,Regular Week,Chicken,9.79,2,6.8,0.3
+2026-09-05,Saturday,Heavy Rain,Regular Week,Seafood,5.71,3,3.71,0.13
+2026-09-06,Sunday,Clear,Regular Week,Leafy Greens,6.73,2,6.76,0.07
+2026-09-06,Sunday,Clear,Regular Week,Tomatoes,5.61,6,5.44,0.06
+2026-09-06,Sunday,Clear,Regular Week,Chicken,13.46,1,10.8,0.43
+2026-09-06,Sunday,Clear,Regular Week,Seafood,7.85,3,7.22,0.11
+2026-09-07,Monday,Clear,Regular Week,Leafy Greens,6.2,2,5.16,0.13
+2026-09-07,Monday,Clear,Regular Week,Tomatoes,4.4,5,4.67,0.05
+2026-09-07,Monday,Clear,Regular Week,Chicken,11.73,4,10.43,0.16
+2026-09-07,Monday,Clear,Regular Week,Seafood,6.77,3,5.68,0.11
+2026-09-08,Tuesday,Heavy Rain,Regular Week,Leafy Greens,7.07,1,5.18,0.28
+2026-09-08,Tuesday,Heavy Rain,Regular Week,Tomatoes,6.06,5,4.16,0.07
+2026-09-08,Tuesday,Heavy Rain,Regular Week,Chicken,13.23,2,10.31,0.33
+2026-09-08,Tuesday,Heavy Rain,Regular Week,Seafood,7.66,2,5.95,0.19
+2026-09-09,Wednesday,Heavy Rain,Regular Week,Leafy Greens,6.41,3,4.47,0.13
+2026-09-09,Wednesday,Heavy Rain,Regular Week,Tomatoes,5.55,5,3.93,0.07
+2026-09-09,Wednesday,Heavy Rain,Regular Week,Chicken,13.06,4,9.77,0.21
+2026-09-09,Wednesday,Heavy Rain,Regular Week,Seafood,8.15,1,5.87,0.33
+2026-09-10,Thursday,Clear,Regular Week,Leafy Greens,6.35,3,6.36,0.07
+2026-09-10,Thursday,Clear,Regular Week,Tomatoes,4.44,4,4.79,0.05
+2026-09-10,Thursday,Clear,Regular Week,Chicken,10.41,2,11.61,0.11
+2026-09-10,Thursday,Clear,Regular Week,Seafood,6.95,3,7.67,0.08
+2026-09-11,Friday,Clear,Regular Week,Leafy Greens,6.26,2,7.05,0.07
+2026-09-11,Friday,Clear,Regular Week,Tomatoes,5.18,6,5.63,0.06
+2026-09-11,Friday,Clear,Regular Week,Chicken,11.41,1,14.26,0.12
+2026-09-11,Friday,Clear,Regular Week,Seafood,7.04,1,8.24,0.08
+2026-09-12,Saturday,Clear,Regular Week,Leafy Greens,3.75,3,4.52,0.04
+2026-09-12,Saturday,Clear,Regular Week,Tomatoes,3.05,3,3.33,0.03
+2026-09-12,Saturday,Clear,Regular Week,Chicken,7.48,2,8.95,0.08
+2026-09-12,Saturday,Clear,Regular Week,Seafood,4.09,3,5.28,0.04
+2026-09-13,Sunday,Clear,Regular Week,Leafy Greens,7.44,4,5.68,0.12
+2026-09-13,Sunday,Clear,Regular Week,Tomatoes,5.99,5,5.18,0.07
+2026-09-13,Sunday,Clear,Regular Week,Chicken,11.88,1,13.4,0.13
+2026-09-13,Sunday,Clear,Regular Week,Seafood,7.94,1,7.32,0.15
+2026-09-14,Monday,Heavy Rain,Regular Week,Leafy Greens,5.67,4,3.66,0.1
+2026-09-14,Monday,Heavy Rain,Regular Week,Tomatoes,5.14,5,2.95,0.07
+2026-09-14,Monday,Heavy Rain,Regular Week,Chicken,11.47,2,8.18,0.34
+2026-09-14,Monday,Heavy Rain,Regular Week,Seafood,6.24,1,4.1,0.3
+2026-09-15,Tuesday,Clear,Regular Week,Leafy Greens,5.69,3,7.29,0.06
+2026-09-15,Tuesday,Clear,Regular Week,Tomatoes,4.58,5,5.49,0.05
+2026-09-15,Tuesday,Clear,Regular Week,Chicken,11.34,3,11.91,0.12
+2026-09-15,Tuesday,Clear,Regular Week,Seafood,6.54,2,7.6,0.07
+2026-09-16,Wednesday,Clear,Regular Week,Leafy Greens,4.92,2,6.06,0.05
+2026-09-16,Wednesday,Clear,Regular Week,Tomatoes,4.33,7,5.16,0.05
+2026-09-16,Wednesday,Clear,Regular Week,Chicken,10.75,2,12.1,0.12
+2026-09-16,Wednesday,Clear,Regular Week,Seafood,6.46,2,6.3,0.08
+2026-09-17,Thursday,Clear,Regular Week,Leafy Greens,7.0,4,7.19,0.08
+2026-09-17,Thursday,Clear,Regular Week,Tomatoes,5.27,6,5.7,0.06
+2026-09-17,Thursday,Clear,Regular Week,Chicken,12.77,4,12.35,0.15
+2026-09-17,Thursday,Clear,Regular Week,Seafood,8.44,1,6.96,0.25
+2026-09-18,Friday,Clear,Regular Week,Leafy Greens,7.76,4,7.66,0.09
+2026-09-18,Friday,Clear,Regular Week,Tomatoes,6.2,4,6.42,0.07
+2026-09-18,Friday,Clear,Regular Week,Chicken,15.68,3,14.85,0.2
+2026-09-18,Friday,Clear,Regular Week,Seafood,9.06,2,8.41,0.14
+2026-09-19,Saturday,Clear,Regular Week,Leafy Greens,4.98,4,4.07,0.07
+2026-09-19,Saturday,Clear,Regular Week,Tomatoes,3.67,7,3.75,0.04
+2026-09-19,Saturday,Clear,Regular Week,Chicken,9.84,4,9.88,0.11
+2026-09-19,Saturday,Clear,Regular Week,Seafood,5.8,3,5.15,0.08
+2026-09-20,Sunday,Clear,Regular Week,Leafy Greens,6.25,2,5.94,0.09
+2026-09-20,Sunday,Clear,Regular Week,Tomatoes,5.7,4,5.25,0.07
+2026-09-20,Sunday,Clear,Regular Week,Chicken,14.74,2,13.55,0.24
+2026-09-20,Sunday,Clear,Regular Week,Seafood,8.05,1,6.53,0.25
+2026-09-21,Monday,Heavy Rain,Exam Week,Leafy Greens,4.03,3,2.54,0.09
+2026-09-21,Monday,Heavy Rain,Exam Week,Tomatoes,3.24,3,2.36,0.06
+2026-09-21,Monday,Heavy Rain,Exam Week,Chicken,9.0,2,4.74,0.37
+2026-09-21,Monday,Heavy Rain,Exam Week,Seafood,4.51,1,3.13,0.2
+2026-09-22,Tuesday,Clear,Exam Week,Leafy Greens,8.02,1,4.49,0.47
+2026-09-22,Tuesday,Clear,Exam Week,Tomatoes,6.03,4,3.68,0.12
+2026-09-22,Tuesday,Clear,Exam Week,Chicken,13.1,4,9.17,0.23
+2026-09-22,Tuesday,Clear,Exam Week,Seafood,8.36,1,5.1,0.44
+2026-09-23,Wednesday,Clear,Exam Week,Leafy Greens,6.66,1,4.06,0.35
+2026-09-23,Wednesday,Clear,Exam Week,Tomatoes,5.67,6,3.15,0.07
+2026-09-23,Wednesday,Clear,Exam Week,Chicken,13.31,2,8.34,0.47
+2026-09-23,Wednesday,Clear,Exam Week,Seafood,6.93,1,5.02,0.28
+2026-09-24,Thursday,Clear,Exam Week,Leafy Greens,7.91,2,4.32,0.32
+2026-09-24,Thursday,Clear,Exam Week,Tomatoes,6.27,7,3.43,0.08
+2026-09-24,Thursday,Clear,Exam Week,Chicken,13.58,2,7.93,0.52
+2026-09-24,Thursday,Clear,Exam Week,Seafood,7.66,1,4.94,0.38
+2026-09-25,Friday,Clear,Exam Week,Leafy Greens,8.42,1,5.04,0.46
+2026-09-25,Friday,Clear,Exam Week,Tomatoes,7.06,7,4.68,0.09
+2026-09-25,Friday,Clear,Exam Week,Chicken,16.34,3,9.33,0.4
+2026-09-25,Friday,Clear,Exam Week,Seafood,9.25,3,5.19,0.23
+2026-09-26,Saturday,Clear,Exam Week,Leafy Greens,4.48,2,2.91,0.15
+2026-09-26,Saturday,Clear,Exam Week,Tomatoes,4.13,6,2.17,0.05
+2026-09-26,Saturday,Clear,Exam Week,Chicken,10.87,4,6.06,0.22
+2026-09-26,Saturday,Clear,Exam Week,Seafood,5.66,2,3.45,0.21
+2026-09-27,Sunday,Clear,Exam Week,Leafy Greens,6.54,2,3.41,0.27
+2026-09-27,Sunday,Clear,Exam Week,Tomatoes,5.78,5,3.72,0.07
+2026-09-27,Sunday,Clear,Exam Week,Chicken,14.91,4,7.07,0.33
+2026-09-27,Sunday,Clear,Exam Week,Seafood,7.18,3,5.11,0.14
+2026-09-28,Monday,Heavy Rain,Regular Week,Leafy Greens,2.79,1,4.29,0.03
+2026-09-28,Monday,Heavy Rain,Regular Week,Tomatoes,2.59,7,3.25,0.03
+2026-09-28,Monday,Heavy Rain,Regular Week,Chicken,5.21,4,8.24,0.06
+2026-09-28,Monday,Heavy Rain,Regular Week,Seafood,3.44,3,5.04,0.04
+2026-09-29,Tuesday,Heavy Rain,Regular Week,Leafy Greens,4.94,3,4.94,0.05
+2026-09-29,Tuesday,Heavy Rain,Regular Week,Tomatoes,4.05,3,4.25,0.04
+2026-09-29,Tuesday,Heavy Rain,Regular Week,Chicken,10.08,2,9.65,0.14
+2026-09-29,Tuesday,Heavy Rain,Regular Week,Seafood,5.61,2,6.27,0.06
+2026-09-30,Wednesday,Clear,Regular Week,Leafy Greens,4.47,4,6.12,0.05
+2026-09-30,Wednesday,Clear,Regular Week,Tomatoes,3.46,7,5.21,0.04
+2026-09-30,Wednesday,Clear,Regular Week,Chicken,9.17,1,12.16,0.1
+2026-09-30,Wednesday,Clear,Regular Week,Seafood,5.52,1,7.93,0.06
+2026-10-01,Thursday,Clear,Regular Week,Leafy Greens,4.75,4,6.51,0.05
+2026-10-01,Thursday,Clear,Regular Week,Tomatoes,3.78,3,5.78,0.04
+2026-10-01,Thursday,Clear,Regular Week,Chicken,8.72,2,13.03,0.09
+2026-10-01,Thursday,Clear,Regular Week,Seafood,5.44,3,6.55,0.06
+2026-10-02,Friday,Clear,Regular Week,Leafy Greens,5.54,3,6.99,0.06
+2026-10-02,Friday,Clear,Regular Week,Tomatoes,5.14,6,6.05,0.06
+2026-10-02,Friday,Clear,Regular Week,Chicken,10.26,3,14.17,0.11
+2026-10-02,Friday,Clear,Regular Week,Seafood,5.71,1,8.29,0.06
+2026-10-03,Saturday,Clear,Regular Week,Leafy Greens,3.2,3,4.38,0.03
+2026-10-03,Saturday,Clear,Regular Week,Tomatoes,2.39,6,3.79,0.03
+2026-10-03,Saturday,Clear,Regular Week,Chicken,6.67,2,8.67,0.07
+2026-10-03,Saturday,Clear,Regular Week,Seafood,3.79,2,5.31,0.04
+2026-10-04,Sunday,Heavy Rain,Regular Week,Leafy Greens,3.75,2,4.56,0.04
+2026-10-04,Sunday,Heavy Rain,Regular Week,Tomatoes,4.09,4,3.61,0.05
+2026-10-04,Sunday,Heavy Rain,Regular Week,Chicken,7.78,4,9.12,0.08
+2026-10-04,Sunday,Heavy Rain,Regular Week,Seafood,5.63,3,5.67,0.06
+2026-10-05,Monday,Clear,Regular Week,Leafy Greens,4.72,2,5.93,0.05
+2026-10-05,Monday,Clear,Regular Week,Tomatoes,3.58,6,4.66,0.04
+2026-10-05,Monday,Clear,Regular Week,Chicken,9.07,4,10.35,0.1
+2026-10-05,Monday,Clear,Regular Week,Seafood,5.54,2,5.86,0.06
+2026-10-06,Tuesday,Clear,Regular Week,Leafy Greens,5.43,4,6.31,0.06
+2026-10-06,Tuesday,Clear,Regular Week,Tomatoes,4.68,6,5.61,0.05
+2026-10-06,Tuesday,Clear,Regular Week,Chicken,10.61,3,14.43,0.12
+2026-10-06,Tuesday,Clear,Regular Week,Seafood,6.9,1,6.64,0.1
+2026-10-07,Wednesday,Heavy Rain,Regular Week,Leafy Greens,6.73,2,4.76,0.2
+2026-10-07,Wednesday,Heavy Rain,Regular Week,Tomatoes,5.73,6,3.41,0.07
+2026-10-07,Wednesday,Heavy Rain,Regular Week,Chicken,13.37,1,8.01,0.73
+2026-10-07,Wednesday,Heavy Rain,Regular Week,Seafood,8.72,1,4.6,0.54
+2026-10-08,Thursday,Heavy Rain,Regular Week,Leafy Greens,7.17,1,5.11,0.3
+2026-10-08,Thursday,Heavy Rain,Regular Week,Tomatoes,6.35,5,3.31,0.08
+2026-10-08,Thursday,Heavy Rain,Regular Week,Chicken,14.33,3,9.65,0.31
+2026-10-08,Thursday,Heavy Rain,Regular Week,Seafood,7.21,3,5.67,0.13
+2026-10-09,Friday,Clear,Regular Week,Leafy Greens,7.69,4,7.53,0.09
+2026-10-09,Friday,Clear,Regular Week,Tomatoes,6.65,3,6.65,0.07
+2026-10-09,Friday,Clear,Regular Week,Chicken,15.58,3,14.84,0.19
+2026-10-09,Friday,Clear,Regular Week,Seafood,9.12,2,8.1,0.16
+2026-10-10,Saturday,Clear,Regular Week,Leafy Greens,4.81,3,4.52,0.06
+2026-10-10,Saturday,Clear,Regular Week,Tomatoes,4.16,4,3.48,0.06
+2026-10-10,Saturday,Clear,Regular Week,Chicken,9.54,2,8.81,0.15
+2026-10-10,Saturday,Clear,Regular Week,Seafood,5.84,1,5.33,0.12
+2026-10-11,Sunday,Clear,Regular Week,Leafy Greens,5.02,1,6.75,0.05
+2026-10-11,Sunday,Clear,Regular Week,Tomatoes,3.97,5,4.81,0.04
+2026-10-11,Sunday,Clear,Regular Week,Chicken,10.03,3,12.41,0.11
+2026-10-11,Sunday,Clear,Regular Week,Seafood,6.24,2,7.14,0.07
+2026-10-12,Monday,Clear,Exam Week,Leafy Greens,6.52,2,3.32,0.28
+2026-10-12,Monday,Clear,Exam Week,Tomatoes,5.13,7,2.63,0.07
+2026-10-12,Monday,Clear,Exam Week,Chicken,11.39,2,5.5,0.51
+2026-10-12,Monday,Clear,Exam Week,Seafood,6.45,2,3.61,0.25
+2026-10-13,Tuesday,Heavy Rain,Exam Week,Leafy Greens,6.94,4,2.72,0.17
+2026-10-13,Tuesday,Heavy Rain,Exam Week,Tomatoes,6.17,5,2.35,0.08
+2026-10-13,Tuesday,Heavy Rain,Exam Week,Chicken,15.87,3,6.14,0.49
+2026-10-13,Tuesday,Heavy Rain,Exam Week,Seafood,7.31,3,3.54,0.2
+2026-10-14,Wednesday,Heavy Rain,Exam Week,Leafy Greens,5.24,4,2.54,0.12
+2026-10-14,Wednesday,Heavy Rain,Exam Week,Tomatoes,3.76,7,2.29,0.05
+2026-10-14,Wednesday,Heavy Rain,Exam Week,Chicken,8.81,3,5.3,0.21
+2026-10-14,Wednesday,Heavy Rain,Exam Week,Seafood,5.06,1,3.11,0.27
+2026-10-15,Thursday,Heavy Rain,Exam Week,Leafy Greens,5.62,4,3.45,0.11
+2026-10-15,Thursday,Heavy Rain,Exam Week,Tomatoes,3.64,3,2.76,0.07
+2026-10-15,Thursday,Heavy Rain,Exam Week,Chicken,10.61,4,7.06,0.19
+2026-10-15,Thursday,Heavy Rain,Exam Week,Seafood,6.24,1,3.94,0.32
+2026-10-16,Friday,Heavy Rain,Exam Week,Leafy Greens,8.28,2,2.97,0.44
+2026-10-16,Friday,Heavy Rain,Exam Week,Tomatoes,7.31,7,2.63,0.1
+2026-10-16,Friday,Heavy Rain,Exam Week,Chicken,16.32,4,6.98,0.38
+2026-10-16,Friday,Heavy Rain,Exam Week,Seafood,8.91,3,3.92,0.26
+2026-10-17,Saturday,Clear,Exam Week,Leafy Greens,4.98,1,2.93,0.28
+2026-10-17,Saturday,Clear,Exam Week,Tomatoes,3.83,3,2.56,0.08
+2026-10-17,Saturday,Clear,Exam Week,Chicken,9.69,3,6.78,0.2
+2026-10-17,Saturday,Clear,Exam Week,Seafood,5.86,2,3.4,0.22
+2026-10-18,Sunday,Heavy Rain,Exam Week,Leafy Greens,7.43,1,2.95,0.57
+2026-10-18,Sunday,Heavy Rain,Exam Week,Tomatoes,5.29,6,2.83,0.07
+2026-10-18,Sunday,Heavy Rain,Exam Week,Chicken,13.65,3,5.47,0.41
+2026-10-18,Sunday,Heavy Rain,Exam Week,Seafood,7.86,1,3.27,0.58
+2026-10-19,Monday,Heavy Rain,Semester Break,Leafy Greens,3.65,2,2.12,0.14
+2026-10-19,Monday,Heavy Rain,Semester Break,Tomatoes,2.89,3,1.6,0.07
+2026-10-19,Monday,Heavy Rain,Semester Break,Chicken,6.05,3,3.68,0.14
+2026-10-19,Monday,Heavy Rain,Semester Break,Seafood,3.97,2,2.39,0.15
+2026-10-20,Tuesday,Clear,Semester Break,Leafy Greens,2.99,3,4.09,0.03
+2026-10-20,Tuesday,Clear,Semester Break,Tomatoes,2.58,4,2.8,0.03
+2026-10-20,Tuesday,Clear,Semester Break,Chicken,6.76,2,8.05,0.07
+2026-10-20,Tuesday,Clear,Semester Break,Seafood,3.9,2,4.71,0.04
+2026-10-21,Wednesday,Heavy Rain,Semester Break,Leafy Greens,2.79,1,2.92,0.03
+2026-10-21,Wednesday,Heavy Rain,Semester Break,Tomatoes,2.52,3,2.15,0.04
+2026-10-21,Wednesday,Heavy Rain,Semester Break,Chicken,5.83,1,5.19,0.13
+2026-10-21,Wednesday,Heavy Rain,Semester Break,Seafood,3.42,1,2.82,0.1
+2026-10-22,Thursday,Clear,Semester Break,Leafy Greens,3.8,4,3.37,0.05
+2026-10-22,Thursday,Clear,Semester Break,Tomatoes,3.03,4,2.55,0.04
+2026-10-22,Thursday,Clear,Semester Break,Chicken,7.76,4,6.59,0.11
+2026-10-22,Thursday,Clear,Semester Break,Seafood,4.33,1,4.09,0.07
+2026-10-23,Friday,Clear,Semester Break,Leafy Greens,3.27,3,4.02,0.04
+2026-10-23,Friday,Clear,Semester Break,Tomatoes,2.89,6,3.21,0.03
+2026-10-23,Friday,Clear,Semester Break,Chicken,7.67,3,7.95,0.08
+2026-10-23,Friday,Clear,Semester Break,Seafood,4.31,1,4.47,0.05
+2026-10-24,Saturday,Clear,Semester Break,Leafy Greens,3.22,4,2.83,0.04
+2026-10-24,Saturday,Clear,Semester Break,Tomatoes,2.82,5,2.19,0.03
+2026-10-24,Saturday,Clear,Semester Break,Chicken,7.46,1,4.81,0.37
+2026-10-24,Saturday,Clear,Semester Break,Seafood,3.74,3,2.78,0.07
+2026-10-25,Sunday,Clear,Semester Break,Leafy Greens,3.25,2,3.27,0.04
+2026-10-25,Sunday,Clear,Semester Break,Tomatoes,3.11,5,3.02,0.03
+2026-10-25,Sunday,Clear,Semester Break,Chicken,6.01,4,7.28,0.07
+2026-10-25,Sunday,Clear,Semester Break,Seafood,3.6,3,4.16,0.04
+2026-10-26,Monday,Heavy Rain,Semester Break,Leafy Greens,2.33,1,2.52,0.03
+2026-10-26,Monday,Heavy Rain,Semester Break,Tomatoes,1.76,6,1.92,0.02
+2026-10-26,Monday,Heavy Rain,Semester Break,Chicken,4.05,3,4.06,0.04
+2026-10-26,Monday,Heavy Rain,Semester Break,Seafood,2.63,3,3.02,0.03
+2026-10-27,Tuesday,Heavy Rain,Semester Break,Leafy Greens,4.5,3,2.21,0.12
+2026-10-27,Tuesday,Heavy Rain,Semester Break,Tomatoes,3.08,7,2.71,0.03
+2026-10-27,Tuesday,Heavy Rain,Semester Break,Chicken,8.86,2,5.74,0.3
+2026-10-27,Tuesday,Heavy Rain,Semester Break,Seafood,5.18,1,3.35,0.25
+2026-10-28,Wednesday,Clear,Semester Break,Leafy Greens,3.21,3,3.26,0.03
+2026-10-28,Wednesday,Clear,Semester Break,Tomatoes,2.36,4,2.8,0.03
+2026-10-28,Wednesday,Clear,Semester Break,Chicken,5.71,3,6.87,0.06
+2026-10-28,Wednesday,Clear,Semester Break,Seafood,3.1,1,4.07,0.03
+2026-10-29,Thursday,Clear,Semester Break,Leafy Greens,3.7,3,3.61,0.04
+2026-10-29,Thursday,Clear,Semester Break,Tomatoes,2.8,3,3.02,0.03
+2026-10-29,Thursday,Clear,Semester Break,Chicken,7.25,2,6.4,0.13
+2026-10-29,Thursday,Clear,Semester Break,Seafood,4.49,1,3.89,0.11
+2026-10-30,Friday,Clear,Semester Break,Leafy Greens,4.42,1,3.95,0.1
+2026-10-30,Friday,Clear,Semester Break,Tomatoes,3.53,7,3.64,0.04
+2026-10-30,Friday,Clear,Semester Break,Chicken,8.75,1,7.53,0.23
+2026-10-30,Friday,Clear,Semester Break,Seafood,4.92,1,4.75,0.07
+2026-10-31,Saturday,Clear,Semester Break,Leafy Greens,3.11,4,2.32,0.05
+2026-10-31,Saturday,Clear,Semester Break,Tomatoes,2.41,7,2.23,0.03
+2026-10-31,Saturday,Clear,Semester Break,Chicken,5.3,2,5.2,0.06
+2026-10-31,Saturday,Clear,Semester Break,Seafood,3.06,3,3.04,0.03
+2026-11-01,Sunday,Heavy Rain,Semester Break,Leafy Greens,3.6,4,2.67,0.06
+2026-11-01,Sunday,Heavy Rain,Semester Break,Tomatoes,3.33,7,2.21,0.04
+2026-11-01,Sunday,Heavy Rain,Semester Break,Chicken,8.01,3,5.21,0.18
+2026-11-01,Sunday,Heavy Rain,Semester Break,Seafood,4.58,3,2.96,0.1
